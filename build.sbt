@@ -4,7 +4,7 @@ import com.typesafe.sbt.packager.SettingsHelper._
 import sbtrelease._
 import sbtrelease.ReleaseStateTransformations.{setReleaseVersion=>_,_}
 
-name := "ultimate-build"
+name := "version_test"
 
 scalaVersion := "2.11.7"
 
